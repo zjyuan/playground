@@ -15,4 +15,4 @@ int main()
 	service.run();
 }
 
-//g++ asio_steady_timer.cpp -o asio_steady_timer -std=c++11
+//g++ asio_steady_timer.cpp -o asio_steady_timer -std=c++11 -lpthread
