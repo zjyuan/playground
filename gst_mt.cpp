@@ -10,6 +10,7 @@
 
 using namespace std;
 
+
 //using gstreamer in multi-thread context
 
 typedef struct
